@@ -1,0 +1,28 @@
+body{
+    background-image: url('../img/kyle-mackie-Xedxbjx7MFg-unsplash\ \(1\).jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.content{
+    background-color: aquamarine;
+    max-width:450px;
+    border-radius: 30px;
+    margin: auto;
+    box-sizing: border-box;
+    font-family: sans-serif,Arial, Helvetica;
+    padding: 25px;
+    text-align: center;
+    
+}
+input{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width:100%;
+box-sizing: border-box;
+margin: 15px;
+padding:5px;
+}
